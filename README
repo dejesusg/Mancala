@@ -1,0 +1,9 @@
+Mancala by Gabriel De Jesus
+COP 3252
+Playing Instructions
+====================
+
+- The game board will begin with Player 1's side enabled, and player 2's side disabled.
+- Each cup in the game is represented by a clickable button.
+- In order to move the stones in a cup, click the desired button and the stones will be distributed appropriately.
+- Game will end when a side has no more stones to play, or all 48 possible points have been scored.
